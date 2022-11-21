@@ -1,0 +1,2 @@
+This is file created from command prompt
+exit()
